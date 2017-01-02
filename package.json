@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FUNLABGAMES/steam-gold.git"
+    "url": "git+https://github.com/S1ROZHA/steam-gold.git"
   },
   "keywords": [
     "steam",
@@ -23,7 +23,7 @@
   "author": "Drake Witt",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FUNLABGAMES/steam-gold/issues"
+    "url": "https://github.com/S1ROZHA/steam-gold/issues"
   },
   "homepage": "https://www.youtube.com/channel/UCEiP4x61BPgHK9vrLjhpCwQ"
 }
