@@ -9,7 +9,7 @@
  КАК УСТАНОВИТЬ (Для чайников):
 
  1) Качаем и устанавливаем https://nodejs.org/en/ Последнюю версию v7.3.0   
- 2) Переходим сюда: https://github.com/FUNLABGAMES/steam-gold   
+ 2) Переходим сюда: https://github.com/S1ROZHA/steam-gold   
    Нажимаем Clone or Download и после Download Zip   
  3) Разархивируем папку к примеру по такому пути D:\node\steam-gold   
  4) Открываем Командную строку от имени Администратора   
